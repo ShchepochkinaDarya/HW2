@@ -15,27 +15,27 @@
                      <person xml:id="01">     
                          <persName>Ермий</persName> 
                      </person>
-					 <person xml:id="02">     
+		     <person xml:id="02">     
                          <persName>Феб</persName> 
                      </person>
                  </listPerson>
-				 <listPerson type="artistic">
-					 <person xml:id="03">     
+		 <listPerson type="artistic">
+		     <person xml:id="03">     
                          <persName>Елеся</persName> 
                      </person>
-					 <person xml:id="04">     
+		     <person xml:id="04">     
                          <persName>молодка</persName> 
                      </person>
-					 <person xml:id="05">     
+		     <person xml:id="05">     
                          <persName>распутные жены</persName> 
-					 </person>
-					 <person xml:id="06">     
+		     </person>
+		     <person xml:id="06">     
                          <persName>подьячие</persName> 
                      </person>
-					 <person xml:id="07">     
+		     <person xml:id="07">     
                          <persName>начальница</persName> 
                      </person>
-				 </listPerson>
+		 </listPerson>
               </particDesc>
           </profileDesc>
 	</teiHeader>
@@ -55,7 +55,7 @@
         Не скрылись и среди ночныя темноты;
         Встревоженная кровь от хмеля в <person xml:id="03">нем</person> бродила
         И, будто клюква, вся наружу выходила.
-        По знакам сим <person xml:id="01"><persName>Ермий</persName></person> <person xml:id="03"><persName>Елесю</persName></person> познает,
+        По знакам сим <person xml:id="01"><persName>Ермий</persName></person> <person xml:id="03"><persName>Елесю</persName></person>           познает,
         Тихохонько к <person xml:id="03">нему</person> на цыпочках идет,
         Уже приближался к <person xml:id="03">без памяти лежащу</person>,
         И видит подле бок <person xml:id="03">его</person> <person xml:id="04"><persName>молодку</persName></person> спящу,
@@ -84,7 +84,7 @@
         Когда сыскался здесь такой же человек,
         Которого <person xml:id="01"><persName>Ермий</persName></person> восстати как ни нудит,
         Толкает, щиплет, бьет, однако не разбудит.
-        Когда <person xml:id="01"><persName>Ермий</persName></person> не мог <person xml:id="03"><persName>Елесю</persName></person> разбудить.
+        Когда <person xml:id="01"><persName>Ермий</persName></person> не мог <person xml:id="03"><persName>Елесю</persName></person>             разбудить.
         Тогда <person xml:id="01">он</person> вздумал <rs>их с молодкой</rs> прерядить;
         Со обои́х тотча́с <person xml:id="01">он</person> платье скидавает,
         <person xml:id="04">Молодку</person> в ямщиков кафтан передевает,
@@ -144,21 +144,21 @@
         Но шашни мы сии забвенью предадим
         И повесть к своему <person xml:id="03">герою</person> обратим.
         <person xml:id="05">Красавицы</person> того не ведают и сами,
-		Что между их <person xml:id="03">ямщик</person>, как волк между овцами,
-		Лишь только овчею он кожей покровен;
-		<person xml:id="05">Голубки</person>, не овца лежит меж вас, <person xml:id="03">овен</person>!
-		Тогда уже заря румяная всходила,
-		Когда <person xml:id="07">начальница</person> <person xml:id="05">красавиц</person> разбудила,
-		Глася, чтоб каждая оставила кровать,
-		И стала ремесло <person xml:id="05">им</person> в руки раздавать;
-		Теперь <person xml:id="05">красавицам</person> пришло не до игрушки:
-		Из рук там в руки шли клубки, мотки, коклюшки;
-		Приемлет каждая свое тут ремесло,
-		Работу вдруг на <person xml:id="05">них</person> как бурей нанесло.
-		От шума оного <person xml:id="03"><persName>Елеся</persName></person> пробудился,
-		Но как <person xml:id="03">он</person> между сих <person xml:id="05">красавиц</person> очутился,
-		Хоть ты <person xml:id="03">его</person> пытай, не ведает <person xml:id="03">он<person> сам,
-		Не сон ли, думает, является глазам?  
+        Что между их <person xml:id="03">ямщик</person>, как волк между овцами,
+	Лишь только овчею он кожей покровен;
+	<person xml:id="05">Голубки</person>, не овца лежит меж вас, <person xml:id="03">овен</person>!
+	Тогда уже заря румяная всходила,
+	Когда <person xml:id="07">начальница</person> <person xml:id="05">красавиц</person> разбудила,
+	Глася, чтоб каждая оставила кровать,
+	И стала ремесло <person xml:id="05">им</person> в руки раздавать;
+	Теперь <person xml:id="05">красавицам</person> пришло не до игрушки:
+	Из рук там в руки шли клубки, мотки, коклюшки;
+	Приемлет каждая свое тут ремесло,
+	Работу вдруг на <person xml:id="05">них</person> как бурей нанесло.
+	От шума оного <person xml:id="03"><persName>Елеся</persName></person> пробудился,
+	Но как <person xml:id="03">он</person> между сих <person xml:id="05">красавиц</person> очутился,
+	Хоть ты <person xml:id="03">его</person> пытай, не ведает <person xml:id="03">он<person> сам,
+	Не сон ли, думает, является глазам?  
 		
     </text>
 </TEI>
